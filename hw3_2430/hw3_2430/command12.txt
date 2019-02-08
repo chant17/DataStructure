@@ -1,0 +1,7 @@
+add before 3
+11513 Lorene Cox 01 11 1978 25 148200 Manager
+22931 Edwin Porter 12 24 1999 1 42931 Secretary
+sort DOB
+delete 0 to 2
+delete 223931
+

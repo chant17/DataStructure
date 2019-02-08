@@ -1,0 +1,10 @@
+10001 Anna Lawson 01 14 1956 23 1000001 Janitor
+10002 Darlene Daniel 02 14 2001 1 86752 Developer
+10003 Marco Rios 07 12 1977 3 49123 Maintenance
+10004 Noel Walker 09 12 1987 1 1 CEO
+10005 Sally Jackson 05 03 1988 5 223011 Accountant
+10006 Winston Moran 05 15 1988 7 41412 Manager
+10007 Guillermo Dunn 06 21 1998 5 78865 Cook
+10008 May Marshall 07 12 1987 14 41231 Doctor
+10009 Harvey Willis 08 13 1995 11 132311 Dentist
+10010 Patti Haynes 12 25 2000 15 1337 Mascot

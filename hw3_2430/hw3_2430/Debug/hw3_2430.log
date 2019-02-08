@@ -1,0 +1,5 @@
+﻿  myArray.cpp
+  main.cpp
+c:\users\chantha mak\source\repos\hw3_2430\hw3_2430\main.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  hw3_2430.vcxproj -> C:\Users\Chantha Mak\source\repos\hw3_2430\Debug\hw3_2430.exe

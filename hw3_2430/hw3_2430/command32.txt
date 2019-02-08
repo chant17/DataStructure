@@ -1,0 +1,10 @@
+sort first name
+add at beginning
+23192 Cheryl Abbott 10 31 1990 2 500000 Clown
+10007 John Smith 01 01 2000 1 10 1000 Construction
+delete 23192
+delete 10007
+delete 5 to 8
+add at end
+23192 Cheryl Abbott 10 31 1990 2 500000 Clown
+10007 John Smith 01 01 2000 1 1000 Construction
