@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\chantha mak\source\repos\denseadd\denseadd\source.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\chantha mak\source\repos\denseadd\denseadd\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  DenseAdd.vcxproj -> C:\Users\Chantha Mak\source\repos\DenseAdd\Debug\DenseAdd.exe
